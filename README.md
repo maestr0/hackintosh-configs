@@ -1,4 +1,6 @@
-### Configuration
+### Hackintosh High Sierra Clover + Kexsts
+
+### Hardware Configuration
 
 
 
@@ -14,6 +16,3 @@ Micro Adapter, GBU521
 - Monitor Cinema Display 30" DVI
 - Monitor HP ZR30w 30" DVI
 - Apple wired keyboard
-
-### Hackintosh High Sierra Clover + Kexsts
-
