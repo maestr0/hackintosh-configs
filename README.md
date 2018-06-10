@@ -1,4 +1,4 @@
-### Hackintosh High Sierra Clover + Kexsts
+### Hackintosh High Sierra Clover + Kexts
 
 ### Hardware Configuration
 
