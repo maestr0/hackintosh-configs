@@ -1,8 +1,6 @@
-### Hackintosh High Sierra Clover + Kexts
+### Hackintosh High Sierra 11.13.5 Clover + Kexts
 
 ### Hardware Configuration
-
-
 
 - I7-6700k Skylake  4ghz
 - Gigabyte z170x-ud5
